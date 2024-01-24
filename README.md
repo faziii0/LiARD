@@ -4,6 +4,7 @@
 A Multi-Modal Feature Fusion Network for 3D Object Detection
 
 # Code will be available Soon
+![Fusion-new drawio](https://github.com/faziii0/LiARD/assets/111413133/549191c3-7ab3-4c3a-8790-aeba81e0e851)
 
 # Environment Setup:
 Linux (tested on Ubuntu 22.04)
@@ -50,5 +51,26 @@ LiARD
 ├── pointdep_lirad
 ├── tools
 ```
+## Trained Model Evaluation
+
+
+
+
+
+| Objects | Easy|Moderate     | Hard                   | 
+| :-------- | :------- | :----------- | :----------|
+| `Car` | 95.82% | 88.84% | 83.98%
+| `Pedestrian` | 82.20% | 74.86% | 69.42%
+| `Cyclist` | 84.99% | 70.30% | 67.10%
+
+3D Predicted labels are avialable from the above Google
+
+
+## Acknowledgements
+
+ Thanks to all the contributors and authors of the project [PointRCNN](https://github.com/sshaoshuai/PointRCNN), [EPNet++](https://github.com/happinesslz/EPNetV2), [EPNet](https://github.com/happinesslz/EPNet)
+
+## Citation
+
 
 
