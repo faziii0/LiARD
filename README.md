@@ -13,3 +13,11 @@ PyTorch 1.10 + CUDA-11.3
 
 # Step 1:
    git clone https://github.com/faziii0/LiARD
+
+# Step 2:
+  1. conda create -n liard python==3.8
+  2. conda activate liard
+  3. conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
+  4. conda install -c conda-forge cudatoolkit-dev
+  5. pip install -r requirements.txt
+  6. sh build_and_install.sh
