@@ -25,16 +25,21 @@ PyTorch 1.10 + CUDA-11.3
 # Dataset preparation:
 Please download the official KITTI 3D object detection dataset and  train mask from Epnet++
 
- LiARD
- ├── data
- │   ├── KITTI
- │   │   ├── ImageSets
- │   │   ├── object
- │   │   │   ├──training
- │   │   │      ├──calib & velodyne & label_2 & image_2 & depth_image & train_mask
- │   │   │   ├──testing
- │   │   │      ├──calib & velodyne & image_2 & depth_image
- ├── lib
+mkdir EPNetV2
+cd EPNetV2
+mkdir data lib pointnet2_lib tools
+cd data
+mkdir KITTI
+cd KITTI
+mkdir ImageSets object
+cd object
+mkdir training testing
+cd training
+mkdir calib velodyne label_2 image_2 planes train_mask
+cd ../testing
+mkdir calib velodyne image_2
+cd ../../../../..
+
  ├── point_depth
  ├── tools
 
