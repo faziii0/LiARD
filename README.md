@@ -4,7 +4,7 @@
 A Multi-Modal Feature Fusion Network for 3D Object Detection
 
 # Code will be available Soon
-![Fusion-new drawio](https://github.com/faziii0/LiARD/assets/111413133/549191c3-7ab3-4c3a-8790-aeba81e0e851)
+########![Fusion-new drawio](https://github.com/faziii0/LiARD/assets/111413133/549191c3-7ab3-4c3a-8790-aeba81e0e851)
 
 # Environment Setup:
 Linux (tested on Ubuntu 22.04)
