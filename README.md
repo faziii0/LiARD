@@ -1,5 +1,5 @@
 
-# LiARD+++
+# LumiNet
 
 A Multi-Modal Feature Fusion Network for 3D Object Detection
 
@@ -20,7 +20,7 @@ PyTorch 1.10 + CUDA-11.3
 To deploy this project run
 
 ```bash
-git clone https://github.com/faziii0/LiARD
+git clone https://github.com/faziii0/LumiNet
   
 ```
 
