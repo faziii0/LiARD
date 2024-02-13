@@ -4,6 +4,8 @@
 A Multi-Modal Feature Fusion Network for 3D Object Detection
 
 # Code will be available Soon
+[Fusion-new drawio](https://github.com/faziii0/LumiNet/assets/111413133/870aaf36-40fc-4da6-abd3-3d906c175b02)
+
 
 # Environment Setup:
 Linux (tested on Ubuntu 22.04)
