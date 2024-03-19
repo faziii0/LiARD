@@ -57,7 +57,7 @@ LiARD
 │   │   │   ├──training
 │   │   │      ├──calib & velodyne & label_2 & image_2 & depth & train_mask
 │   │   │   ├──testing
-│   │   │      ├──calib & velodyne & image_2 & depth_image
+│   │   │      ├──calib & velodyne & image_2 & depth
 ├── lib
 ├── pointdep_lirad
 ├── tools
