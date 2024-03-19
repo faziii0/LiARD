@@ -55,7 +55,7 @@ LiARD
 │   │   ├── ImageSets
 │   │   ├── object
 │   │   │   ├──training
-│   │   │      ├──calib & velodyne & label_2 & image_2 & depth_image & train_mask
+│   │   │      ├──calib & velodyne & label_2 & image_2 & depth & train_mask
 │   │   │   ├──testing
 │   │   │      ├──calib & velodyne & image_2 & depth_image
 ├── lib
