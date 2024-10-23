@@ -70,9 +70,9 @@ LiARD
 
 | Objects | Easy|Moderate     | Hard                   | 
 | :-------- | :------- | :----------- | :----------|
-| `Car` | 95.82% | 88.84% | 83.98%
-| `Pedestrian` | 82.20% | 74.86% | 69.42%
-| `Cyclist` | 84.99% | 70.30% | 67.10%
+| `Car` | 91.67% | 83.32% | 78.29%
+| `Pedestrian` | 00.0% | 00.0% | 0.00%
+| `Cyclist` | 00.0% | 00.0% | 00.0%
 
 3D Predicted labels are avialable from the above Google
 
