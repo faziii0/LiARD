@@ -5,8 +5,9 @@ A Multi-Modal Feature Fusion Network for 3D Object Detection
 
 # Code will be available Soon
 
-
-#![Fusion-new drawio](https://github.com/faziii0/LumiNet/assets/111413133/bfea5354-d194-4cfd-8ef4-138d72fb807f)
+<!-- 
+![Fusion-new drawio](https://github.com/faziii0/LumiNet/assets/111413133/bfea5354-d194-4cfd-8ef4-138d72fb807f)
+-->
 
 
 
